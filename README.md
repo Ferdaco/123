@@ -1,1 +1,2 @@
 # FirstYamlTemplate
+FirstYamlTemplate dosyası oluşturuldu.
